@@ -1,0 +1,19 @@
+{
+  "name": "cleverbot-say",
+  "version": "0.0.1",
+  "description": "Two cleverbot talk",
+  "main": "cleverbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Resseguie <david@resseguie.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Resseguie/cleverbot-say.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cleverbot-node": "^0.1.8",
+    "say": "^0.6.0"
+  }
+}
